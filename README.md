@@ -3,7 +3,7 @@
 
 I'm **Himanshu Yadav** aka **Naasamajh**.
 ---
-**B.Tech (CSE) student** | Web Dev · Frontend · Data Science · ML · Automation  
+**B.Tech (CSE) student** | Web Dev · Python · Data Science · Ai/ML 
 📍 Uttar Pradesh
 
 ---

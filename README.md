@@ -1,8 +1,8 @@
 <!-- Welcome header -->
 # Hi there! 👋
----
-I'm **Himanshu Yadav** aka **Naasamajh**.
 
+I'm **Himanshu Yadav** aka **Naasamajh**.
+---
 **B.Tech (CSE) student** | Web Dev · Frontend · Data Science · ML · Automation  
 📍 Uttar Pradesh
 

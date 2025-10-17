@@ -24,39 +24,18 @@ Nothing Special
 
 ---
 
-## 🚀 Projects
-1. **Anonymous Chatroom** — *Python, Flask, HTML, CSS, Socket.io*  
-   Real-time anonymous chat app enabling users to talk without revealing identity.  
-   🔗 https://python-realtime-chatroom.onrender.com/
-
-2. **Recipe Generator with AI** — *NextJS, Gemini AI*  
-   Generates custom recipes and cooking instructions from prompts.  
-   🔗 https://recipes-generator.netlify.app/
-
-3. **YouTube Video Downloader** — *Python, Tkinter*  
-   Desktop app to select and download YouTube videos.
-
-4. **Notes App** — *HTML, CSS, JavaScript*  
-   Create, edit and export notes as PDF.
-
----
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naasamajh1&layout=compact&theme=dark)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naasamajh1&show_icons=true&theme=dark)
-
----
-
-## 🎓 Education
-**IMS Engineering College, Ghaziabad** — B.Tech (CSE) (Expected: 04/2026)  
-**St. Xavier’s High School, Azamgarh** — Class XII (03/2022) / Class X (03/2020)
+  
 
 ---
 
 ## 📫 Contact & Resume
 - Email: naasamajh2@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/naasamajh/  
-- Resume: https://github.com/naasamajh1/ME/blob/main/Resume1.pdf
 
 ---
 

@@ -37,7 +37,8 @@ Nothing Special
 
 ## 📫 Contact
 - Email: naasamajh2@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/naasamajh/  
+- LinkedIn: https://www.linkedin.com/in/naasamajh/
+- Leetcode: https://leetcode.com/u/naasamajh1/ 
 
 ---
 

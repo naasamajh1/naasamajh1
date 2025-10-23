@@ -4,7 +4,6 @@
 I'm **Himanshu Yadav** aka **Naasamajh**.
 ---
 **B.Tech (CSE) student** | Web Dev · Python · Data Science · Ai/ML 
-📍 Uttar Pradesh
 
 ---
 
